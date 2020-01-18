@@ -1,0 +1,7 @@
+$ go run main.go
+----------unsafe.Pointer---------
+1
+&{1 99 3 this is a example true}
+3
+&{1 99 123 this is a example true}
+
